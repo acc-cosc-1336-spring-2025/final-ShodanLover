@@ -1,5 +1,3 @@
-# main.py
-
 # add import
 from question_b import get_most_likely_ancestor_consensus
 

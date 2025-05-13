@@ -1,5 +1,3 @@
-# main.py
-
 # add import
 from question_d import create_multiplication_table, display_multiplication_table
 

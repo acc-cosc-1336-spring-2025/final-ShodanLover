@@ -1,5 +1,3 @@
-# main.py
-
 # add import
 from question_a import stock_purchase_history
 
@@ -18,6 +16,5 @@ def main():
         else:
             print("Invalid option. Please try again.\n")
 
-# Make sure main() runs when executed directly
 if __name__ == "__main__":
     main()

@@ -1,5 +1,3 @@
-# main.py
-
 # add import
 from question_c import get_stock_list
 

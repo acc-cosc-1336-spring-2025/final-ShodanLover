@@ -1,7 +1,6 @@
 # write function tests here, don't add input('') statements here!
 import unittest
 
-# Corrected import paths using src.<folder>.<file>
 from src.question_a.question_a import test_config as test_config_a
 from src.question_b.question_b import test_config as test_config_b, get_most_likely_ancestor_consensus
 from src.question_c.question_c import test_config as test_config_c, get_stock_list
